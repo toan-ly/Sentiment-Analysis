@@ -18,7 +18,7 @@ The dataset used is the IMDB movie reviews dataset, consisting of movie reviews 
 The raw text data undergoes extensive preprocessing to ensure high-quality input for the models:
 - **HTML Tag Removal**: Cleans text from any HTML formatting
 - **Contractions Expansion**: Expands shortened forms of words (e.g., "don't" to "do not")
-- ** Stopwords Removal**: Removes common stopwords (e.g., "and", "the") that add little meaning to sentiment analysis
+- **Stopwords Removal**: Removes common stopwords (e.g., "and", "the") that add little meaning to sentiment analysis
 - **Lemmatization**: Converts words to their base forms (e.g., "running" to "run")
 
 ### Modeling
